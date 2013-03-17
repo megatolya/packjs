@@ -19,6 +19,7 @@
       "async": "~0.2.6",
       "request": "~2.16.2"
   },
+  "repository": "git://github.com/megatolya/packjs.git",
   "keywords": [
     "pack",
     "html",
