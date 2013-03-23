@@ -20,7 +20,8 @@
     "request": "~2.16.2",
     "borschik": "0.2.8",
     "node-uuid": "1.4.0",
-    "wrench": "~1.4.4"
+    "wrench": "~1.4.4",
+    "inherit": "~1.0.4"
   },
   "keywords": [
     "pack",
