@@ -1,6 +1,6 @@
 {
   "name": "pack.js",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Makes html page minified by packing all depended css and js in one file",
   "preferGlobal": true,
   "bin": {
@@ -21,7 +21,8 @@
     "borschik": "0.2.8",
     "node-uuid": "1.4.0",
     "wrench": "~1.4.4",
-    "inherit": "~1.0.4"
+    "inherit": "~1.0.4",
+    "colors": "0.6.x"
   },
   "keywords": [
     "pack",
