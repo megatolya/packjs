@@ -7,8 +7,8 @@
     "packjs": "./bin/packjs"
   },
   "scripts": {
-    "start": "node ./bin/http-server",
-    "test": ""
+    "start": "node ./bin/packjs --help",
+    "test": "node ./bin/packjs -i tests/index.html -o tests/out"
   },
   "main": "./lib/pack.js",
   "repository": "git://github.com/megatolya/packjs.git",
