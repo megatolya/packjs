@@ -2,7 +2,7 @@
   "name": "pack.js",
   "version": "0.1.0",
   "description": "Makes html page minified by packing all depended css and js in one file",
-  "preferGlobal": true,
+  "preferGlobal": "true",
   "bin": {
     "packjs": "./bin/packjs"
   },
@@ -32,5 +32,8 @@
     "file"
   ],
   "author": "Anatoliy Ostrovskiy",
-  "license": "MIT"
+  "license": "MIT",
+  "engines": {
+     "node": "0.8.x"
+   }
 }
